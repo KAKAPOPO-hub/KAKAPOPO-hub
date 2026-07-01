@@ -1,7 +1,12 @@
-💫 About Me:
-🐐
+## About Me : 
+👨‍💻🖥️📊🔍💡
 
-💻 Tech Stack:
-Vercel Next JS NPM Matplotlib Pandas TensorFlow scikit-learn Java JavaScript TypeScript Swift Python C++ Dart CSS3 HTML5 Kotlin Go Elixir Zig R Rust Firebase Google Cloud Oracle Bootstrap Flutter React React Native Web3.js Vite Flask Apache MariaDB MySQL SQLite Firebase Postgres Supabase Figma Dribbble Framer Canva Git GitHub
+## Tech 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-📊 GitHub Stats: ``
+## Design
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
