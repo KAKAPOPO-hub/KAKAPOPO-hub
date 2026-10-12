@@ -21,11 +21,11 @@
 
 Hi! I'm **Muhamad Ibnu Arif**, a student who is learning programming and exploring the world of software development.
 
-- 🎓 Currently learning and improving my coding skills.
-- 💻 Exploring programming and software development.
-- 🧠 Interested in learning new technologies.
-- 🚀 Building projects as part of my learning journey.
-- 🎯 My goal is to keep learning and become a better developer.
+- Currently learning and improving my coding skills.
+- Exploring programming and software development.
+- Interested in learning new technologies.
+- Building projects as part of my learning journey.
+- My goal is to keep learning and become a better developer.
 
 > "Every expert was once a beginner."
 
