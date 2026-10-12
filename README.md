@@ -54,4 +54,7 @@
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KAKAPOPO-hub&theme=tokyo-night&hide_border=true)
+## 📈 Contribution Activity
+
+![Activity Graph](https://vercel.app)
+
