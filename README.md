@@ -34,7 +34,7 @@ Hi! I'm **Muhamad Ibnu Arif**, a student who is learning programming and explori
 ## ⚡ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark&perline=4" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,typescript,dart,flutter,vscode&theme=dark&perline=4" alt="Technology icons" />
 </p>
 
 ---
