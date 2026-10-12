@@ -52,7 +52,5 @@
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAKAPOPO-hub&show_icons=true&theme=tokyonight)
 
-## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-stats.vercel.app/api?username=KAKAPOPO-hub&show_icons=true&theme=tokyonight)
 
