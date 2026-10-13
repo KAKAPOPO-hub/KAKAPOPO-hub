@@ -1,7 +1,7 @@
 # 💫 Hey, I'm Muhamad Ibnu Arif!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:2563EB&height=200&section=header&text=Muhamad%20Ibnu%20Arif&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:2563EB&height=200&section=header&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile header" />
 </p>
 
 <p align="center">
@@ -48,11 +48,6 @@ Hi! I'm **Muhamad Ibnu Arif**, a student who is learning programming and explori
 
 ---
 
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
-</p>
 
 ---
 
