@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Muhamad Ibnu Arif!
+#  Hey, I'm Muhamad Ibnu Arif!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:2563EB&height=200&section=header&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile header" />
@@ -50,18 +50,6 @@ Hi! I'm **Muhamad Ibnu Arif**, a student who is learning programming and explori
 
 
 ---
-
-## 🌐 Find Me on GitHub
-
-<p align="center">
-  <a href="https://github.com/KAKAPOPO-hub">
-    <img src="https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <i>✨ Learning something new, one line of code at a time.</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0D1117&height=100&section=footer" width="100%" alt="Profile footer" />
