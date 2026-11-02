@@ -33,8 +33,24 @@ Hi! I'm **Muhamad Ibnu Arif**, a student who is learning programming and explori
 
 ## ⚡ Tech Stack & Tools
 
+## 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,typescript,dart,flutter,vscode&theme=dark&perline=4" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,typescript,dart&theme=dark&perline=4" alt="Programming Languages" />
+</p>
+
+## ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark&perline=4" alt="Frameworks and Libraries" />
+</p>
+
+## 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=4" alt="Database" />
+</p>
+
+## 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=4" alt="Tools and Platforms" />
 </p>
 
 ---
