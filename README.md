@@ -42,10 +42,10 @@ Hi! I'm **Muhamad Ibnu Arif**, a student who is learning programming and explori
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAKAPOPO-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=3B82F6" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKAPOPO-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170" alt="Most used languages" />
-</p>
+  <img src="https://github-stats-extended.vercel.app/api?username=KAKAPOPO-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=3B82F6&cache_seconds=86400" height="170" alt="GitHub statistics" />
 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KAKAPOPO-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&cache_seconds=86400" height="170" alt="Most used languages" />
+</p>
 ---
 
 
