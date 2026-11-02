@@ -33,32 +33,52 @@ Hi! I'm **Muhamad Ibnu Arif**, a student who is learning programming and explori
 
 ## ⚡ Tech Stack & Tools
 
-## 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,typescript,dart&theme=dark&perline=4" alt="Programming Languages" />
-</p>
 
-## ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter&theme=dark&perline=4" alt="Frameworks and Libraries" />
-</p>
-
-## 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=4" alt="Database" />
-</p>
-
-## 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=4" alt="Tools and Platforms" />
-</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=KAKAPOPO-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=3B82F6&cache_seconds=86400" height="170" alt="GitHub statistics" />
+  <img ## 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,python,java,cpp&theme=dark&perline=5" alt="Programming Languages" />
+</p>
+
+## 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,vite&theme=dark&perline=5" alt="Frontend Development" />
+</p>
+
+## ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,npm&theme=dark&perline=5" alt="Backend Development" />
+</p>
+
+## 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark&perline=5" alt="Mobile Development" />
+</p>
+
+## 🗄️ Database & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis&theme=dark&perline=5" alt="Database and Storage" />
+</p>
+
+## 🛠️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman,git,github,figma&theme=dark&perline=5" alt="Development Tools" />
+</p>
+
+## ☁️ Deployment & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,linux,githubactions&theme=dark&perline=5" alt="Deployment and DevOps" />
+</p>
+
+## 🎨 Design & Creative Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae&theme=dark&perline=5" alt="Design and Creative Tools" />
+</p>src="https://github-stats-extended.vercel.app/api?username=KAKAPOPO-hub&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=3B82F6&cache_seconds=86400" height="170" alt="GitHub statistics" />
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KAKAPOPO-hub&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&cache_seconds=86400" height="170" alt="Most used languages" />
 </p>
